@@ -1,4 +1,4 @@
-# ionic2-animation-app
+# Ionic 2 Simple Animation
 This is Ionic2 app that I used swipe animation.
 ## Installation
 Using node package manager:
